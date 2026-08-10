@@ -4,7 +4,8 @@ Omnifood is a responsive landing page for a fictional AI-powered food subscripti
 
 ## 🌐 Live Demo
 
-[View Live Demo](omnifoodsam.netlify.app)
+[View Live Demo in netlify](omnifoodsam.netlify.app)
+[View Live Demo in GitHub](https://mirghasemi8.github.io/omnifood-project/)
 
 ## 📖 About the Project
 
