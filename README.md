@@ -6,10 +6,6 @@ Omnifood is a responsive landing page for a fictional AI-powered food subscripti
 
 [View Live Demo](#)
 
-## 📸 Preview
-
-![Omnifood Preview](./img/omnifood-preview.png)
-
 ## 📖 About the Project
 
 Omnifood is a fictional food subscription service that uses AI to create personalized meal plans based on the user's dietary preferences and nutritional needs.
